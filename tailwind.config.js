@@ -12,10 +12,10 @@ module.exports = {
       'tertiary':"#61AEC9",
       'white': "#ffffff",
     },
-    fontFamily: { 
-      Montserrat: ["Monserrat", "sans-serif"],
-    },
     extend: {
+      fontFamily: {
+        'Montserrat': ['Montserrat', 'sans-serif'],
+      },
       backgroundImage: {
         'sanFrancisco': "url('../img/sanFrancisco.jpg')",
 			  'sanFranciscoDesktop': "url('../img/sanFranciscoDesktop.jpg')",
